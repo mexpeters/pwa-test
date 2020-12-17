@@ -1,0 +1,22 @@
+{ 
+	"name": "MDEV Basis PWA",
+	"short_name": "MDEV PWA",
+	"start_url": "index.html",
+	"scope": ".",
+	"display": "standalone",
+	"background_color": "#7f0f09",
+	"theme_color": "#b67875",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "/images/icons/app_icon48x48.png",
+			"type": "image/png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "/images/icons/app_icon96x96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		}
+	]
+}
